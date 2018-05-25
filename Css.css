@@ -1,0 +1,44 @@
+.style {
+	width:50%;
+	height:50%;
+}
+
+.backcolorgreen {
+	background-color:#00ff55;
+	border-radius:10px; 
+}
+.backColorBlue {
+	background-color:#1affff;
+	border-radius:5px;
+}
+.center {
+	text-align: center;
+}
+h2 {
+	font-size: 28px;
+ 	}
+h1 {
+	font-size:50px;
+}
+.backcolryellow{
+	background-color:#ffff99;
+	border-radius:5px;
+}
+.backcolorpink {
+	background-color:#ff9999;
+	border-radius:5px; 
+} 
+hr {
+	border-width:1px;
+	margin-left:350px;
+	margin-right:350px;
+	border-style:inset;
+	border-color:black;
+}
+.tipsfont {
+	font-family:lucida console;
+	margin-left:360px;
+}
+.hr1 {
+	border:1px solid black;
+}
